@@ -12,6 +12,7 @@ Original file is located at
 #instrumentasimedisuts
 
 #Importing Library
+pip install streamlit
 import numpy as np
 import pandas as pd
 import math
@@ -20,6 +21,7 @@ import seaborn as sns
 import plotly.express as px
 import matplotlib.pyplot as plt
 import io
+
 
 
 
