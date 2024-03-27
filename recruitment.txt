@@ -1,8 +1,8 @@
-import numpy 
-import pandas
-import math
-import random
-import seaborn 
-import plotly.express 
-import matplotlib.pyplot 
-import io
+numpy 
+pandas
+math
+random
+seaborn 
+plotly.express 
+matplotlib.pyplot 
+io
